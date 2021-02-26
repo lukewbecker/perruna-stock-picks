@@ -1,4 +1,4 @@
-# Repo for Perruna stock pick
+# Perruna Stock Picks
 
 ## Analysis and Options Research based on picks
 
